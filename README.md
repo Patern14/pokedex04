@@ -1,6 +1,5 @@
-https://patern14.github.io/react-pokedex-03/
+https://pokedex04-c07c2.web.app/
 
-http://localhost:3000/
 
 <img src="https://github.com/Patern14/react-pokedex-03/blob/master/screenshots/List%20-%202021-05-01%20102049.png" width="95%" />
 
